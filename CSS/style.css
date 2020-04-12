@@ -1,0 +1,46 @@
+h1{
+	background-color: green
+
+
+}
+
+body{
+	font-family:'Lato,' sans-serif;
+	font-weight: 400;
+	font-size: 16px;
+	line-height: 1.6;
+}
+ 
+
+h1{
+	font-size: 30px;
+	font-weight: 700;
+}
+
+h2{
+	font-size: 18px;
+	font-weight: 700;
+}
+
+a{
+	color: #357b70
+}
+a:visited{
+	color: #05676e;
+}
+
+a:hover{
+	text-decoration: none;
+}
+
+a:active{
+	color:#489c79;
+}
+
+button:hover,button:focus{
+
+
+cursor: pointer;
+
+opacity: 0.8;
+}
